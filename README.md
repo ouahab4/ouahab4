@@ -2,11 +2,15 @@
 
 I'm a Postgraduate Engineering Student specializing in Artificial Intelligence and Data Science. Founder & CEO of BAC Students, the largest educational social media platform in Africa. Passionate about Swarm Intelligence & bio-inspired AI
 
+## 🧑‍💼 Work
+Founder & CEO of [BAC Students](https://github.com/BAC-Students)
+
 ## 🛠️ Technical Stack
 ### Languages
 ```python
-languages = ['Python', 'Dart', 'Java sciprt']
+languages = ['Python', 'Dart', 'JavaSciprt']
 ```
+
 
 ## 🔗 Connect With Me
 
