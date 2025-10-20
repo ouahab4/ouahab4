@@ -1,9 +1,7 @@
 # 👋 Hi, I'm Abdelouahab KRIM
 
-I'm a Postgraduate Engineering Student specializing in Artificial Intelligence and Data Science. Founder & CEO of BAC Students, the largest educational social media platform in Africa. Passionate about Swarm Intelligence & bio-inspired AI
+I'm a Postgraduate Engineering Student specializing in Artificial Intelligence and Data Science. Founder & CEO of [BAC Students](https://github.com/BAC-Students), the largest educational social media platform in Africa. Passionate about Swarm Intelligence & bio-inspired AI
 
-## 🧑‍💼 Work
-Founder & CEO of [BAC Students](https://github.com/BAC-Students)
 
 ## 🛠️ Technical Stack
 ### Languages
